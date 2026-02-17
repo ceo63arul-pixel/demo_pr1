@@ -1,5 +1,6 @@
-public class Main {
+public class OOPSBannerApp {
     public static void main(String[] args) {
-        System.out.println("Hello GitHub!");
+        System.out.println("OOPS");
     }
 }
+
